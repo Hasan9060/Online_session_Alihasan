@@ -14,6 +14,6 @@ This repository contains a series of Python practice.
 ## 🎓 Mentor
 👨‍🏫 **Ali Hasan** 
 
-## 🐍 Contribution Snake
+## GitHub Contribution 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
